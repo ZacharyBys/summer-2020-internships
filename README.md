@@ -15,4 +15,5 @@ Try to keep it sorted alphabetically :)
 | Name | Location | Application Period | Notes  |
 |---|---|---|---|
 | [Akuna Capital](https://akunacapital.com/careers) | IL, MA | Present | Graduation date Spring 2021; Many listings: C#, C++, Python, Web, Infrastructure, Data Viz, Data Analysis, Quant Dev, etc| 
+| [American Express](https://jobs.americanexpress.com/jobs/19003378?lang=en-us) | AZ, FL, NY | Present | Graduation date between December 2020 and June 2022 | 
 | [Microsoft Garage](https://careers.microsoft.com/students/us/en/job/660552/Summer-Garage-Internship-Program-Software-Engineering-Vancouver) | Canada | Present | |
